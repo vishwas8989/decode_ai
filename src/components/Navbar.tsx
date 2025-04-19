@@ -40,7 +40,7 @@ const Navbar: React.FC = () => {
           <div className="flex items-center">
             <div className="flex-shrink-0 flex items-center">
               <Code className={`h-8 w-8 ${isScrolled ? 'text-blue-600' : 'text-white'}`} />
-              <span className="ml-2 text-xl font-bold">KNIT Coders</span>
+              <span className="ml-2 text-xl font-bold">KNIT Programming Club</span>
             </div>
           </div>
           <div className="hidden md:block">
